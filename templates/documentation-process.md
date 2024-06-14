@@ -10,7 +10,7 @@ This document provides an overview of our documentation process, including all o
 
 ## Our Process
 
-It's important to understand that documentation is a continuous part of our process and a key component of our SDLC. In regards to documentation, we break the SDLC up into 3 phases. See the [Software Development](https://app.joggr.io/app/documents/113cba46-91f4-4ecd-8458-ffbc8096bbb3) Process document for a full breakdown of our SDLC.
+It's important to understand that documentation is a continuous part of our process and a key component of our SDLC. In regards to documentation, we break the SDLC up into 3 phases. See the [Software Development](https://app.joggr.io) Process document for a full breakdown of our SDLC.
 
 | Phase         | Description                                                                                                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
