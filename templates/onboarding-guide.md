@@ -4,7 +4,7 @@ We are super excited to have you onboard! As a company focused on documentation,
 
 ## The Basics
 
-There are some basics, such as accessing email and slack or company-wide policies that all employees and contractors need to get started, the following sections provide you the ability to get access, find documentation and other important tidbits.
+There are some basics, such as accessing email and Slack or company-wide policies that all employees and contractors need to get started, the following sections provide you the ability to get access, find documentation, and other important tidbits.
 
 ### Access
 
@@ -20,7 +20,7 @@ To get started please complete each section in order:
 
 #### Email & Drive
 
-Gmail and Google Drive are our email and non-Joggr document storage software platforms. As you will soon learn we are all Google (& Apple).
+Gmail and Google Drive are our email and non-ENTER_COMPANY document storage software platforms. As you will soon learn we are all Google (& Apple).
 
 Follow the steps below to get your email setup:
 
@@ -34,9 +34,9 @@ Follow the steps below to get your email setup:
 
 5. You should see your email, but you still have one more step
 
-6. Set up a Chrome Profile for your work email - [How to setup a Chrome Profile](https://support.google.com/chrome/answer/2364824?hl=en\&co=GENIE.Platform%3DDesktop)
+6. Set up a Chrome Profile for your work email - [How to set up a Chrome Profile](https://support.google.com/chrome/answer/2364824?hl=en\&co=GENIE.Platform%3DDesktop)
 
-7. Update your email signature using the follow format: `FirstName LastName | Title | Joggr (Techstars '23)`
+7. Update your email signature using the following format: `FirstName LastName | Title | ENTER_COMPANY`
 
 8. 🥳 You now have email setup!
 
@@ -62,17 +62,17 @@ Follow the steps below to get access:
 
 8. Join our primary channels:
 
-   1. [#general](https://joggr.slack.com/archives/CRZRQPNJD)
+   1. [#general](https://slack.com)
 
-   2. [#cust-support](https://joggr.slack.com/archives/C058UUSF2CD)
+   2. [#general-channel-two](https://slack.com)
 
 9. 🥳 You now have access to our Slack workspace!
 
-Our Slack workspace: <https://joggr.slack.com>
+Our Slack workspace: <https://slack.com>
 
 #### Linear
 
-We use Linear as our task management software, if you've never used Linear before buckle up its the best task management software out there for startups!
+We use Linear as our task management software, if you've never used Linear before buckle up it is the best task management software out there for startups!
 
 Follow the steps below to get access:
 
@@ -86,11 +86,11 @@ Follow the steps below to get access:
 
 5. 🥳 You now have access to our Linear projects!
 
-Our Linear workspace: <https://linear.app/joggr>
+Our Linear workspace: <https://linear.app>
 
 ## Engineering
 
-We have a lot of work to do and can use more hands-on keyboard-crushing code. Our core goal is to get you to your first commit but there are a couple of steps you need to knock out before you can start commiting code.
+We have a lot of work to do and can use more hands-on keyboard-crushing code. Our core goal is to get you to your first commit but there are a couple of steps you need to knock out before you can start committing code.
 
 Please work through each section before you start to take on any tasks:
 
@@ -122,7 +122,7 @@ Follow the steps below to get access to GCP:
 
 #### GitHub
 
-You will need access to GitHub to commit code. You will be assigned a GitHub team based on your role within the organization, most engineers will be assigned to the [Product team](https://github.com/orgs/joggrdocs/teams/product) which will give them limited write access to the core repositories.
+You will need access to GitHub to commit code. You will be assigned a GitHub team based on your role within the organization, most engineers will be assigned to the [Product team](https://github.com) which will give them limited write access to the core repositories.
 
 Follow the steps below to get access to GitHub:
 
@@ -138,17 +138,15 @@ Follow the steps below to get access to GitHub:
 
 You will need to join certain channels in Slack as an engineer, please join the channels below:
 
-* [#eng-hq](https://slack.com)
+* [#slack-channel-one](https://slack.com)
 
-* [#eng-releases-dev](https://slack.com)
+* [#slack-channel-two](https://slack.com)
 
-* [#eng-releases-prd](https://slack.com)
-
-* [#eng-standups](https://slack.com)
+* [#slack-channel-three](https://slack.com)
 
 ### Documentation
 
-As a documentation startup, we provide you with a set of documents you need to read before jumping into the codebase. Please read (or at least skim) all documents provided below.
+As a company that emphasizes documentation, we provide you with a set of documents you need to read before jumping into the codebase. Please read (or at least skim) all documents provided below.
 
 To get started please complete each section in order:
 
@@ -166,13 +164,11 @@ Below is a list of documents you should read to learn about the basics of workin
   
 * 📖[ Planning Process: learn about how we plan & estimate work @ ENTER_COMPANY.](https://app.joggr.io)
 
-* 📖[ Planning Process: learn about how we plan & estimate work @ ENTER_COMPANY.](https://app.joggr.io)
-
 #### Architecture
 
 Below is a list of documents you should read to learn about the Joggr architecture.
 
-* 📖[ Service Architecture: learn about our core services, how they interact and the overall architecture of Joggr](https://app.joggr.io)
+* 📖[ Service Architecture: learn about our core services, how they interact and the overall architecture of ENTER_COMPANY](https://app.joggr.io)
 
 * 📖[ Environments: learn about how we segment our applications, databases and other assets by environment](https://app.joggr.io)
 
@@ -180,21 +176,21 @@ Below is a list of documents you should read to learn about the Joggr architectu
 
 #### Standards
 
-Below is a list of documents you should read to learn about the standards our engineering team follows everyday.
+Below is a list of documents you should read to learn about the standards our engineering team follows every day.
 
-* 📖[ VCS Standards: a set of standards for Git, GitHub and Code Reviews](https://app.joggr.io/app/documents/ba3f137c-13b8-4725-a527-00726023289e)
+* 📖[ VCS Standards: a set of standards for Git, GitHub and Code Reviews](https://app.joggr.io)
 
-* 📖[ Security Standard: a set of standards for application and coding security](https://app.joggr.io/app/documents/5eaf3f0f-1542-4960-8c40-02c2aaf269fb)
+* 📖[ Security Standard: a set of standards for application and coding security](https://app.joggr.io)
 
-* 📖[ Code Style Standards: a set of standards for our coding styles, including linting, formatting, file naming and more](https://app.joggr.io/app/documents/d2d66f5b-89cf-4dd7-b98f-0acc0e4d1519)
+* 📖[ Code Style Standards: a set of standards for our coding styles, including linting, formatting, file naming and more](https://app.joggr.io)
 
 ### Your First Commit
 
-You are now ready to start commiting code! Before we can get you into the code you need to dig into some final onboarding tasks.
+You are now ready to start committing code! Before we can get you into the code you need to dig into some final onboarding tasks.
 
 To get started please complete each section in order:
 
-1. Local Develpoment Environment
+1. Local Development Environment
 
 2. Take on your first task
 
@@ -204,29 +200,25 @@ To get started please complete each section in order:
 
 Before you can take on your first task you need to get your local development environment set up!
 
-1. Set up Launchpad our backend API: 📖[ How to set up your Local Environment](https://app.joggr.io/app/documents/41e7af2b-c327-469a-9f37-fbe79925e18a)
+1. Set up our backend: 📖[ How to set up your Back-End Local Environment](https://app.joggr.io)
 
-2. Set up Prisma Studio, our admin panel for our Database: 📖[ How to access Database using Prisma Studio](https://app.joggr.io/app/documents/789c9b69-69c5-4ebb-a81d-d598b12d2d1e)
+2. Set up our DB: 📖[ How to access Database using X (e.g. Prisma)](https://app.joggr.io/)
 
-3. Set up Odin our GitHub API App & Proxy: 📖[ How to set up your Odin Local Environment](https://app.joggr.io/app/documents/ed5899e4-9cb6-432e-9530-3a80b8a3547b?showReward=true\&firstTimeCreate=false)
-
-4. Set up Stargate our Frontend (soon to be everything) Monorepo: 📖[ How to set up your Local Environment](https://app.joggr.io/app/documents/9365239c-a930-4f85-8cc4-94d67534a3d3)
-
-5. Log in to the local application: <http://localhost:8080>
+3. Set up our front-end: 📖[ How to set up your Front-End Local Environment](https://app.joggr.io)
 
 #### Take on your first task
 
 You should already have a set of tasks assigned to you but follow the steps below to get to your first commit!
 
-1. Pick your first task (issue) up in Linear
+1. Pick your first task (issue) up in ENTER_TICKETING_SYSTEM (e.g. Jira)
 
 2. Complete the work
 
-3. Open a Pull-Request following [our standards](https://app.joggr.io/app/documents/ba3f137c-13b8-4725-a527-00726023289e)
+3. Open a Pull-Request following [our standards](https://app.joggr.io)
 
 4. Merge your approved PR!
 
-## Welcome to Joggr!
+## Welcome to ENTER_COMPANY!
 
 You are now a full-fledged member of the team. Happy Jogging!
 
