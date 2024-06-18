@@ -36,20 +36,10 @@ _Apps & DB_
 _Static Images & Assets_
 `")
     gcp-local-static("`**Local Static**
-_GCP: durable-catty-333_
+_AWS: dur-123_
 `")
   end
   style dev fill:#588157
-
-  subgraph ops["Operations Group"]
-    gcp-vault("`**Vault**
-_Backup for GitHub Repos_
-`")
-    gcp-vault("`**Scotty**
-_Docker Images & DevOps Apps_
-`")
-  end
-  style ops fill:#1d3557
 ```
 
 **NOTE**: this diagram is NOT real as its just a demo of the groups to demonstrate the organization of groups & actual environments.
