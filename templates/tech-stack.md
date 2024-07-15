@@ -1,3 +1,18 @@
+<!--@@joggrdoc@@-->
+<!-- @joggr:version(v2):end -->
+<!-- @joggr:warning:start -->
+<!-- 
+  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
+ | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
+ | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
+ |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
+ (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
+                                                              
+This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
+ability to auto-maintain this document. Please use the Joggr editor to edit this document 
+(link at bottom of the page).
+-->
+<!-- @joggr:warning:end -->
 ## Overview
 
 At ENTER_COMPANY, our primary goal when selecting a technology stack was and is to provide our team with the ability to do their jobs efficiently and without unnecessary roadblocks or processes.
@@ -58,3 +73,10 @@ Our primary could provider is Google Cloud, and we primarily use Cloud Run for a
 | ----------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Cloud Run](https://cloud.google.com/run?hl=en) | Serverless Runtime | Cloud Run is a serverless runtime on top of [KNative](https://knative.dev/docs/) that allows us to deploy our applications in a seamless manner and provide developers with a application dashboard to view logs, make changes and more. |
 | [Cloud SQL](https://cloud.google.com/sql?hl=en) | Database           | CloudSQL is a managed SQL database that allow our team to take all the heavy lifting around backups, security, maintenance and shift that to GCP.          
+
+<!-- @joggr:editLink(9dbf659c-aca6-44f6-bd64-9a04c67fc08a):start -->
+---
+<a href="https://app.joggr.io/app/documents/9dbf659c-aca6-44f6-bd64-9a04c67fc08a/edit">
+  <img src="https://cdn.joggr.io/assets/static/badges/joggr-document-edit.svg?did=9dbf659c-aca6-44f6-bd64-9a04c67fc08a" alt="Edit doc on Joggr" />
+</a>
+<!-- @joggr:editLink(9dbf659c-aca6-44f6-bd64-9a04c67fc08a):end -->

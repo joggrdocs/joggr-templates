@@ -1,3 +1,18 @@
+<!--@@joggrdoc@@-->
+<!-- @joggr:version(v2):end -->
+<!-- @joggr:warning:start -->
+<!-- 
+  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
+ | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
+ | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
+ |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
+ (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
+                                                              
+This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
+ability to auto-maintain this document. Please use the Joggr editor to edit this document 
+(link at bottom of the page).
+-->
+<!-- @joggr:warning:end -->
 ## Overview
 
 This document provides you with an overview of the services (applications), vendors and other assets that make up the our platform and how they interact.
@@ -87,3 +102,10 @@ flowchart TD
 
   linkStyle default stroke-width:4px,fill:none,stroke:black;
 ```
+
+<!-- @joggr:editLink(086ba8d2-cb0b-44bc-8a19-71e56349924c):start -->
+---
+<a href="https://app.joggr.io/app/documents/086ba8d2-cb0b-44bc-8a19-71e56349924c/edit">
+  <img src="https://cdn.joggr.io/assets/static/badges/joggr-document-edit.svg?did=086ba8d2-cb0b-44bc-8a19-71e56349924c" alt="Edit doc on Joggr" />
+</a>
+<!-- @joggr:editLink(086ba8d2-cb0b-44bc-8a19-71e56349924c):end -->

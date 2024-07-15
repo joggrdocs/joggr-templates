@@ -1,3 +1,18 @@
+<!--@@joggrdoc@@-->
+<!-- @joggr:version(v2):end -->
+<!-- @joggr:warning:start -->
+<!-- 
+  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
+ | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
+ | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
+ |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
+ (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
+                                                              
+This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
+ability to auto-maintain this document. Please use the Joggr editor to edit this document 
+(link at bottom of the page).
+-->
+<!-- @joggr:warning:end -->
 ## Overview
 
 This document provides you with an overview of the environments where we deploy our applications, store data and how they map to AWS & other tools.
@@ -94,3 +109,10 @@ The environment where we write software locally on our machines.
 | Third_Party_One        | Our email provider for testing emails locally                                                      | local-app.acme.com | [View](https://resend.com/overview)                                             |
 | Third_Party_Two      | Our Product metrics vendor, that we can use to test metrics for our end users and organizations    | 349354              | [View](https://us.posthog.com)                                    |
 | Third_Party_Three      | Our PLG tooling vendor for testing onboarding and other workflows for our users                    | dev-9247                | [View](https://google.com)  
+
+<!-- @joggr:editLink(dfa96944-04f1-4624-a05f-31d6349ff349):start -->
+---
+<a href="https://app.joggr.io/app/documents/dfa96944-04f1-4624-a05f-31d6349ff349/edit">
+  <img src="https://cdn.joggr.io/assets/static/badges/joggr-document-edit.svg?did=dfa96944-04f1-4624-a05f-31d6349ff349" alt="Edit doc on Joggr" />
+</a>
+<!-- @joggr:editLink(dfa96944-04f1-4624-a05f-31d6349ff349):end -->
