@@ -1,3 +1,18 @@
+<!--@@joggrdoc@@-->
+<!-- @joggr:version(v2):end -->
+<!-- @joggr:warning:start -->
+<!-- 
+  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
+ | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
+ | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
+ |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
+ (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
+                                                              
+This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
+ability to auto-maintain this document. Please use the Joggr editor to edit this document 
+(link at bottom of the page).
+-->
+<!-- @joggr:warning:end -->
 ## 👋 Welcome
 
 We are super excited to have you onboard! As a company focused on documentation, our onboarding process is self-service and heavily documented. Please complete the onboarding process from top to bottom to get started.
@@ -223,3 +238,10 @@ You should already have a set of tasks assigned to you but follow the steps belo
 You are now a full-fledged member of the team. Happy Jogging!
 
 ![](https://storage.googleapis.com/joggr-public-assets/marketing/joggr-running-start.gif)
+
+<!-- @joggr:editLink(3b06dff4-250c-4b65-bb2b-b79747895c2b):start -->
+---
+<a href="https://app.joggr.io/app/documents/3b06dff4-250c-4b65-bb2b-b79747895c2b/edit">
+  <img src="https://cdn.joggr.io/assets/static/badges/joggr-document-edit.svg?did=3b06dff4-250c-4b65-bb2b-b79747895c2b" alt="Edit doc on Joggr" />
+</a>
+<!-- @joggr:editLink(3b06dff4-250c-4b65-bb2b-b79747895c2b):end -->
