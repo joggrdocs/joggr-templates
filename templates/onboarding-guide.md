@@ -35,7 +35,7 @@ To get started please complete each section in order:
 
 #### Email & Drive
 
-Gmail and Google Drive are our email and non-ENTER_COMPANY document storage software platforms. As you will soon learn we are all Google (& Apple).
+Gmail and Google Drive are our email and non-ENTER\_COMPANY document storage software platforms. As you will soon learn we are all Google (& Apple).
 
 Follow the steps below to get your email setup:
 
@@ -173,21 +173,21 @@ To get started please complete each section in order:
 
 #### Overview
 
-Below is a list of documents you should read to learn about the basics of working at ENTER_COMPANY.
+Below is a list of documents you should read to learn about the basics of working at ENTER\_COMPANY.
 
-* 📖[ Software Development Process: learn about how code goes from idea to production @ ENTER_COMPANY.](https://app.joggr.io)
-  
-* 📖[ Planning Process: learn about how we plan & estimate work @ ENTER_COMPANY.](https://app.joggr.io)
+* 📖[ Software Development Process: learn about how code goes from idea to production @ ENTER\_COMPANY.](https://app.joggr.io)
+
+* 📖[ Planning Process: learn about how we plan & estimate work @ ENTER\_COMPANY.](https://app.joggr.io)
 
 #### Architecture
 
 Below is a list of documents you should read to learn about the Joggr architecture.
 
-* 📖[ Service Architecture: learn about our core services, how they interact and the overall architecture of ENTER_COMPANY](https://app.joggr.io)
+* 📖[ Service Architecture: learn about our core services, how they interact and the overall architecture of ENTER\_COMPANY](https://app.joggr.io)
 
 * 📖[ Environments: learn about how we segment our applications, databases and other assets by environment](https://app.joggr.io)
 
-* 📖[ Technology Stack: learn about the tools used to build ENTER_COMPANY](https://app.joggr.io)
+* 📖[ Technology Stack: learn about the tools used to build ENTER\_COMPANY](https://app.joggr.io)
 
 #### Standards
 
@@ -225,7 +225,7 @@ Before you can take on your first task you need to get your local development en
 
 You should already have a set of tasks assigned to you but follow the steps below to get to your first commit!
 
-1. Pick your first task (issue) up in ENTER_TICKETING_SYSTEM (e.g. Jira)
+1. Pick your first task (issue) up in ENTER\_TICKETING\_SYSTEM (e.g. Jira)
 
 2. Complete the work
 
@@ -233,7 +233,7 @@ You should already have a set of tasks assigned to you but follow the steps belo
 
 4. Merge your approved PR!
 
-## Welcome to ENTER_COMPANY!
+## Welcome to ENTER\_COMPANY!
 
 You are now a full-fledged member of the team. Happy Jogging!
 
