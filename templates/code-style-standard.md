@@ -27,7 +27,7 @@ This document provides an a quick overview of our standards for our coding style
 
 As an engineering organization focused on operational excellence, we understand that the code itself many times is the best documentation and keeping a standardized format for things like file naming, function declarations, and more, is important for the end-reader of code. This includes when trying to review code, decipher code you didn't write or pulling in samples. We live by one rule with our code styles:
 
-> You cannot tell who wrote the code, only that someone on the ENTER_TEAM_OR_COMANY NAME did.
+> You cannot tell who wrote the code, only that someone on the ENTER\_TEAM\_OR\_COMANY NAME did.
 
 ## Comments
 
@@ -80,7 +80,6 @@ A section is used to organize logical separation between different parts of a fi
 #### Subsection
 
 A subsection is the most frequently used comment and is used to logically separate parts of a file, function or component.
-
 
 ```lezer
 /*
