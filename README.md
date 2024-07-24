@@ -11,4 +11,4 @@
 
 ## Overview
 
-This repository includes documentation templates built by the Joggr Team, jump into the [`/docs`](/docs) to get started.
+This repository includes documentation templates built by the Joggr Team, jump into the [`/templates`](/templates) to get started.
