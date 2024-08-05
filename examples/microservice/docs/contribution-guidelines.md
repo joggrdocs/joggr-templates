@@ -74,7 +74,7 @@ Commit message standards are crucial for maintaining clarity and consistency in 
 
 When contributing to the User Authentication Service, please follow the following standards:
 
-* You **MUST **write a unit test for all code changes.
+* You **MUST** write a unit test for all code changes.
 
 * You **MUST** test your code. When we review the code, we expect that you have already tested it to ensure the microservice works as expected.
 
