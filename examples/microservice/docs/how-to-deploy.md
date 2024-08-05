@@ -69,6 +69,8 @@ Add a code snippet here.
 
 Add any troubleshooting content here.
 
+## How to Rollback (optional)
+
 <!-- @joggr:editLink(7d67107f-7a86-4af3-8320-472fc3bcff22):start -->
 ---
 <a href="https://app.joggr.io/app/documents/7d67107f-7a86-4af3-8320-472fc3bcff22/edit">
