@@ -31,6 +31,10 @@ Below are a set of important links and resources to help you as you contribute t
 
 <table class="dashdraft-table"><tbody><tr class="dashdraft-table-row"><th class="dashdraft-table-header" colspan="1" rowspan="1" colwidth="260"><p class="dashdraft-paragraph">Channel</p></th><th class="dashdraft-table-header" colspan="1" rowspan="1"><p class="dashdraft-paragraph">Description</p></th></tr><tr class="dashdraft-table-row"><td class="dashdraft-table-cell" colspan="1" rowspan="1" colwidth="260"><p class="dashdraft-paragraph">#payments-team</p></td><td class="dashdraft-table-cell" colspan="1" rowspan="1"><p class="dashdraft-paragraph">This channel is used for x, y, z.</p></td></tr><tr class="dashdraft-table-row"><td class="dashdraft-table-cell" colspan="1" rowspan="1" colwidth="260"><p class="dashdraft-paragraph">#payments-team-service.</p></td><td class="dashdraft-table-cell" colspan="1" rowspan="1"><p class="dashdraft-paragraph">This channel is used for x, y, z.</p></td></tr></tbody></table>
 
+> \[!IMPORTANT]
+>
+> Please read through the documentation before reaching out to our team in slack. If you are unable to find an answer to your question, we may have a gap in our documentation, so please let us know.
+
 ## Other Docs
 
 Below are a list of helpful resources and documentation.
