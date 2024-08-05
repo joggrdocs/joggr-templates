@@ -41,11 +41,7 @@ Add a description of the step here.
 
 Add a code snippet here.
 
-## 🎉 Done
-
-Add a description of the completed task here.
-
-## Troubleshooting
+### Troubleshooting
 
 Add any troubleshooting content here.
 
@@ -69,11 +65,7 @@ Add a description of the step here.
 
 Add a code snippet here.
 
-## 🎉 Done
-
-Add a description of the completed task here.
-
-## Troubleshooting
+### Troubleshooting
 
 Add any troubleshooting content here.
 
