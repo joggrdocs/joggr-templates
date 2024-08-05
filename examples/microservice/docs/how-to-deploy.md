@@ -27,19 +27,19 @@ Describe how they can use previews if this is applicable.
 
 Add a description of the step here.
 
-Add a code snippet here.
+Add a code snippet or an image if this would be helpful.
 
 ### Step 2 - Name of the step
 
 Add a description of the step here.
 
-Add a code snippet here.
+Add a code snippet or an image if this would be helpful.
 
 ### Step 3 - Name of the step
 
 Add a description of the step here.
 
-Add a code snippet here.
+Add a code snippet or an image if this would be helpful.
 
 ### Troubleshooting
 
@@ -51,25 +51,27 @@ Add any troubleshooting content here.
 
 Add a description of the step here.
 
-Add a code snippet here.
+Add a code snippet or an image if this would be helpful.
 
 ### Step 2 - Name of the step
 
 Add a description of the step here.
 
-Add a code snippet here.
+Add a code snippet or an image if this would be helpful.
 
 ### Step 3 - Name of the step
 
 Add a description of the step here.
 
-Add a code snippet here.
+Add a code snippet or an image if this would be helpful.
 
 ### Troubleshooting
 
 Add any troubleshooting content here.
 
 ## How to Rollback (optional)
+
+Describe the steps to rollback a deployment.
 
 <!-- @joggr:editLink(7d67107f-7a86-4af3-8320-472fc3bcff22):start -->
 ---
