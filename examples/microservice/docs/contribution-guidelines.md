@@ -17,13 +17,13 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 
 In this guide, you will learn all of the following:
 
-1. **Branching Standards**: how we branch off of `main` and what you need to do to ensure you follow our standards and do not block your pull requests.
+1. [Branching Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#branching-standards): how we branch off of `main` and what you need to do to ensure you follow our standards and do not block your pull requests.
 
-2. **Commit Messages**: please follow the standards outlined below when writing commit messages.
+2. [Commit Messages](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#commit-messages): please follow the standards outlined below when writing commit messages.
 
-3. **Testing Standards**: please follow the standards outlined below to ensure you have appropriate test coverage for your changes.
+3. [Testing Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#testing-standards): please follow the standards outlined below to ensure you have appropriate test coverage for your changes.
 
-4. **Code Review Standards:** please follow these standards to ensure a quick review.
+4. [Code Review Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#code-review-standards)**:** please follow these standards to ensure a quick review.
 
 > \[!IMPORTANT]
 >
@@ -31,7 +31,9 @@ In this guide, you will learn all of the following:
 
 ## Branching Standards
 
-The Trunk-Based Development workflow visualized in the `gitGraph` the diagram shows the main branch (`main`) as the central line of development. Feature branches (`feature/1`, `feature/2`, `feature/3`) are created for individual features, each with multiple commits before being merged back into `main`. A hotfix branch (`hotfix/1`) is also illustrated, addressing critical issues and merging back into `main` after resolution. This approach ensures continuous integration and keeps the main branch deployable at all times.
+We follow [Trunk Flow](https://www.toptal.com/software/trunk-based-development-git-flow) which means we only ever branch off of our default branch (usually `main`) and then squash merge back into the *Trunk* aka the default branch.
+
+The Trunk-Based Development workflow visualized in the `gitGraph` diagram shows the main branch (`main`) as the central line of development. Feature branches (`feature/1`, `feature/2`, `feature/3`) are created for individual features, each with multiple commits before being merged back into `main`. A hotfix branch (`hotfix/1`) is also illustrated, addressing critical issues and merging back into `main` after resolution. This approach ensures continuous integration and keeps the main branch deployable at all times.
 
 ```mermaid
 gitGraph
@@ -80,11 +82,11 @@ Please follow the standards below when writing tests for your changes.
 
 ## Code Review Standards
 
-Please follow our Branching Standards to ensure a quick review. We review Pull Requests daily. Our SLA for a review is 24 hours.
+Please follow our [Branching Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#branching-standards) to ensure a quick review. We review Pull Requests daily. Our SLA for a review is 24 hours.
 
 > \[!TIP]
 >
-> If you need an expedited review, please reach out in slack and explain why.
+> If you need an expedited review, please reach out in Slack and explain why.
 
 <!-- @joggr:editLink(c80c811a-b3cc-4b6f-b3d7-5cab383ca36f):start -->
 ---
