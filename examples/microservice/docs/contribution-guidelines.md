@@ -17,13 +17,13 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 
 In this guide, you will learn all of the following:
 
-1. [Branching Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#branching-standards): how we branch off of `main` and what you need to do to ensure you follow our standards and do not block your pull requests.
+1. **Branching Standards**
 
-2. [Commit Messages](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#commit-messages): please follow the standards outlined below when writing commit messages.
+2. **Commit Messages**
 
-3. [Testing Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#testing-standards): please follow the standards outlined below to ensure you have appropriate test coverage for your changes.
+3. **Testing Standards**
 
-4. [Code Review Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#code-review-standards)**:** please follow these standards to ensure a quick review.
+4. **Code Review Standards**
 
 > \[!IMPORTANT]
 >
@@ -33,7 +33,7 @@ In this guide, you will learn all of the following:
 
 We follow [Trunk Flow](https://www.toptal.com/software/trunk-based-development-git-flow) which means we only ever branch off of our default branch (usually `main`) and then squash merge back into the *Trunk* aka the default branch.
 
-The Trunk-Based Development workflow visualized in the `gitGraph` diagram shows the main branch (`main`) as the central line of development. Feature branches (`feature/1`, `feature/2`, `feature/3`) are created for individual features, each with multiple commits before being merged back into `main`. A hotfix branch (`hotfix/1`) is also illustrated, addressing critical issues and merging back into `main` after resolution. This approach ensures continuous integration and keeps the main branch deployable at all times.
+The Trunk-Based Development workflow visualized in the `gitGraph` diagram shows the main branch (`main`) as the central line of development. Feature branches (`feature/1`, `feature/2`, `feature/3`) are created for individual features, each with multiple commits before being merged back into `main`. A hotfix branch (`hotfix/1`) is also illustrated, addressing critical issues and merging back into `main` after resolution.
 
 ```mermaid
 gitGraph
@@ -68,17 +68,15 @@ gitGraph
 
 ## Commit Messages
 
-Commit message standards are crucial for maintaining clarity and consistency in a software development project. Effective commit messages should follow a **clear, structured format: start with a concise, imperative mood summary of the change** (e.g., "Fix bug in user authentication"), followed by a detailed description if necessary, explaining the rationale and impact of the change. This format not only aids in understanding the history and context of the code but also facilitates easier code reviews and troubleshooting. Adhering to a standardized style, such as including issue tracking IDs or referencing related pull requests, ensures that messages are informative and that the commit history remains organized and useful for all team members.
+Commit message standards are crucial for maintaining clarity and consistency in a software development project. Effective commit messages should follow a **clear, structured format: start with a concise, imperative mood summary of the change** (e.g., "Fix bug in user authentication"), followed by a detailed description if necessary, explaining the rationale and impact of the change. This format not only aids in understanding the history and context of the code but also facilitates easier code reviews and troubleshooting.
 
 ## Testing Standards
 
-Please follow the standards below when writing tests for your changes.
+When contributing to the User Authentication Service, please follow the following standards:
 
-<table class="dashdraft-table"><tbody><tr class="dashdraft-table-row"><th class="dashdraft-table-header" colspan="1" rowspan="1" colwidth="182"><p class="dashdraft-paragraph">Test Type</p></th><th class="dashdraft-table-header" colspan="1" rowspan="1"><p class="dashdraft-paragraph">Standard</p></th></tr><tr class="dashdraft-table-row"><td class="dashdraft-table-cell" colspan="1" rowspan="1" colwidth="182"><p class="dashdraft-paragraph">Unit Tests</p></td><td class="dashdraft-table-cell" colspan="1" rowspan="1"><p class="dashdraft-paragraph">You <strong class="dashdraft-bold">MUST </strong>write a unit test for all code changes.</p></td></tr></tbody></table>
+* You **MUST **write a unit test for all code changes.
 
-> \[!IMPORTANT]
->
-> When we review the code, we expect that you have already tested it to ensure the microservice works as expected.
+* You **MUST** test your code. When we review the code, we expect that you have already tested it to ensure the microservice works as expected.
 
 ## Code Review Standards
 
