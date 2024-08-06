@@ -13,7 +13,7 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
-# Summary
+# Single Repo Example
 
 *Please write a short description of the service and its purpose.*
 
