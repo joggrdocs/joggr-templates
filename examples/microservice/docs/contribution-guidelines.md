@@ -25,13 +25,13 @@ In this guide, you will learn all of the following:
 
 4. **Code Review Standards**
 
-> \[!IMPORTANT]
+> \[!WARNING]
 >
-> By following every standard outlined below, you ensure a quick code review. If you do not follow the standards, expect that we will ask you to fix this before approving your pull request.
+> If you do not follow the standards, we will ask you to fix this before approving your pull request. Please follow these standards to ensure a quick review.
 
 ## Branching Standards
 
-We follow [Trunk Flow](https://www.toptal.com/software/trunk-based-development-git-flow) which means we only ever branch off of our default branch (usually `main`) and then squash merge back into the *Trunk* aka the default branch.
+We follow [Trunk Flow](https://www.toptal.com/software/trunk-based-development-git-flow) which means we only ever branch off of our default branch (usually `main`) and then squash merge back into the *Trunk* aka the default branch. See the examples below.
 
 The Trunk-Based Development workflow visualized in the `gitGraph` diagram shows the main branch (`main`) as the central line of development. Feature branches (`feature/1`, `feature/2`, `feature/3`) are created for individual features, each with multiple commits before being merged back into `main`. A hotfix branch (`hotfix/1`) is also illustrated, addressing critical issues and merging back into `main` after resolution.
 
@@ -72,15 +72,17 @@ Commit message standards are crucial for maintaining clarity and consistency in 
 
 ## Testing Standards
 
-When contributing to the User Authentication Service, please follow the following standards:
+When contributing to the *User Authentication Service*, please follow the following standards:
 
 * You **MUST** write a unit test for all code changes.
 
-* You **MUST** test your code. When we review the code, we expect that you have already tested it to ensure the microservice works as expected.
+* All tests **MUST** pass.
+
+* You **MUST** test your code locally. When we review the code, we expect that you have already tested it thoroughly.
 
 ## Code Review Standards
 
-Please follow our [Branching Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#branching-standards) to ensure a quick review. We review Pull Requests daily. Our SLA for a review is 24 hours.
+Please follow our [Branching Standards](https://app.joggr.io/app/documents/c80c811a-b3cc-4b6f-b3d7-5cab383ca36f/edit#branching-standards) to ensure a quick review. We review Pull Requests daily. Our SLA for a review is **24 hours**.
 
 > \[!TIP]
 >
