@@ -17,13 +17,13 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 
 In this document you will learn all of the following:
 
-* How to report issues
+* How to report an issue
 
-* Where to post questions
+* Where to ask general questions
 
 * How to make feature requests
 
-* How to view upcoming features & our roadmap
+* How to view upcoming features on our roadmap
 
 # Report an Issue
 
