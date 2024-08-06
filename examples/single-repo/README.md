@@ -13,11 +13,13 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
-# Summary
+# Single-Repo Setup
 
-This is an example setup for a single-repository. In this example, templates are provided for all of the following:
+In this example, you will find suggested documents for a single repository. These documents are meant to be the foundational documents required for a single repository, allowing developers to immediately start developing and deploying features without distracting others. If you have suggestions on how we could improve this example, please open a Pull Request and offer feedback.
 
-* How to setup your local environment
+In this example, templates are provided for all of the following:
+
+* How to set your local environment
 
 * How to contribute to the repository
 
