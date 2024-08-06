@@ -13,7 +13,7 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
-# Summary
+## Summary
 
 In this document you will learn all of the following:
 
@@ -25,15 +25,15 @@ In this document you will learn all of the following:
 
 * How to view upcoming features on our roadmap
 
-# Report an Issue
+## Report an Issue
 
-## Step 1: Create Linear Ticket
+### Step 1: Create Linear Ticket
 
 Go to our [Linear board](https://linear.app/) and using our **bugfix** template (see image below), create an issue.
 
 ![bugfix](https://cdn.joggr.io/assets/content/images/76d43b0a-57f3-47a2-ba52-25898a1e1206.png?authToken=8605b24fc9882bb93f4db4604752842b255711d53fbeaaf6423f7f82e809c841)
 
-## Step 2: Post Ticket in Slack
+### Step 2: Post Ticket in Slack
 
 Please post the message in our slack channel called **#team-name-report-issue**.
 
@@ -41,7 +41,7 @@ Please post the message in our slack channel called **#team-name-report-issue**.
 >
 > Our team should respond within 1 hour as long as your message is posted during business hours, which we consider 8am to 6pm EST.
 
-# Make a Feature Request
+## Make a Feature Request
 
 ### Step 1: Create Linear Ticket
 
@@ -63,7 +63,7 @@ If you have a question, please post to the appropriate channel, see below.
 
 <table class="dashdraft-table"><tbody><tr class="dashdraft-table-row"><th class="dashdraft-table-header" colspan="1" rowspan="1" colwidth="279"><p class="dashdraft-paragraph">Channel</p></th><th class="dashdraft-table-header" colspan="1" rowspan="1"><p class="dashdraft-paragraph">Purpose</p></th></tr><tr class="dashdraft-table-row"><td class="dashdraft-table-cell" colspan="1" rowspan="1" colwidth="279"><p class="dashdraft-paragraph">#team-name-general</p></td><td class="dashdraft-table-cell" colspan="1" rowspan="1"><p class="dashdraft-paragraph">Please post general FAQs here. Please make sure to review our docs before asking questions.</p></td></tr><tr class="dashdraft-table-row"><td class="dashdraft-table-cell" colspan="1" rowspan="1" colwidth="279"><p class="dashdraft-paragraph">#team-name-report-issue</p></td><td class="dashdraft-table-cell" colspan="1" rowspan="1"><p class="dashdraft-paragraph">Please post issues here.</p></td></tr></tbody></table>
 
-## View Upcoming Features
+## Upcoming Features
 
 Please visit our roadmap [here](linear.app) to view our latest features. If you have a feature request, please review the docs above to make a request. If you need something prioritized sooner than we have on the roadmap.
 
