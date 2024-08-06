@@ -13,6 +13,47 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
+# Summary
+
+This is an example setup for a single-repository. In this example, templates are provided for all of the following:
+
+* How to setup your local environment
+
+* How to contribute to the repository
+
+* How to deploy your code
+
+* How to contact the repo owner
+
+> \[!NOTE]
+>
+> This is meant to be an example and can be adjusted for your use case. Please follow the instructions below to add to your JoggrSetup.
+
+## Step 1: Download the Zip File
+
+Download the zip file called "single-repo-compressed.zip": <https://github.com/joggrdocs/docs-templates/blob/main/examples/single-repo/single-repo-compressed.zip>
+
+## Step 2: Add the Zip File to your Repository
+
+1. Unzip the file(s)
+
+2. Add the file(s) to your repository
+
+3. Organize the templates into the correct directory tree
+
+4. Open a Pull Request for these changes and merge.
+
+> \[!IMPORTANT]
+>
+> You must merge these changes to the default branch or you cannot complete the following steps.
+
+## Step 3: Import Docs to Joggr
+
+To get the power of Joggr (keeping your docs up to date), you must import them to your Joggr Workspace. Use our docs [to import](https://docs.joggr.io/guides/import-docs) the templates you added to your repository in Step 2.
+
+## 🎉 Done
+
+You now have set up your repository with all the necessary templates. Please review our documentation on [Code Snippets](https://docs.joggr.io/platform/code-snippets) and [Code Links](https://docs.joggr.io/platform/code-links) to learn more about how Joggr can help you keep your docs up to date.
 
 <!-- @joggr:editLink(d3a901a7-3278-44ad-881f-a27f14e024a6):start -->
 ---
