@@ -75,7 +75,7 @@ graph LR;
     openPR;
   end;
 
-  subgraph "Documentation Phase"
+  subgraph "Code Review Phase"
     part4A;
     part4B;
     part4C;
